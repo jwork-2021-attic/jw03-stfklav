@@ -7,6 +7,11 @@
 ### 二. 自己在`W02`中实现的两个排序算法（冒泡排序除外）分别编码进自选图片得到隐写术图，在markdown中给出两个图片的URL
 
 
+https://user-images.githubusercontent.com/80143498/136231706-d85b59ba-44bd-43ba-900b-209f233f6326.png
+
+
+https://user-images.githubusercontent.com/80143498/136231767-234034ab-2b6b-4be6-844e-e0029dc76b01.png
+
 
 ### 三. 用你的图片给`W02`中example的老头赋予排序能力，得到排序结果（动画），上传动画到asciinema，在markdown中给出两个动画的链接
 
