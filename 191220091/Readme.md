@@ -37,7 +37,9 @@ https://user-images.githubusercontent.com/80143498/136231767-234034ab-2b6b-4be6-
 
 使用同学`191220057`林芳麒的隐写术图`S191220057.InsertSorter.png`，给`W02`中`example`的老头赋予排序能力并进行插入排序，得到了正确结果
 使用部分代码：
+
 ![image](https://user-images.githubusercontent.com/80143498/136241676-25b314b3-b177-474c-b7bf-c2f377450093.png)
 运行结果分步展示：
+
 ![image](https://user-images.githubusercontent.com/80143498/136241986-c13864e0-f25c-4630-a5f1-326a7ad5e62d.png)
 
